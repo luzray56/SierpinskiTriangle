@@ -2,6 +2,7 @@ public void setup()
 {
 	size(800,800);
 	background(0);
+	frameRate(1);
 }
 public void draw()
 {
